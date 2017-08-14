@@ -1,4 +1,4 @@
-
+[NPAT - 2017](https://github.com/venuprasad3/NPAT-2017/wiki)
 
 [Q1.Multiple of at least two digits](https://github.com/venuprasad3/NPAT-2017/wiki/Multiple-of-at-least-two-digits) > [Code](https://github.com/venuprasad3/NPAT-2017/blob/master/Q1.cpp)
 <br>
